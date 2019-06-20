@@ -1,5 +1,5 @@
 # awesome-enterprise-component-library
-A list of public enterprise funded open source component libraries. Might help you with your proposals ❤🌹️
+A list of enterprise funded publically open source component libraries. Might help you with your proposals ❤🌹️
 
 In no partcular order. Re-organize for your target audience.
 
