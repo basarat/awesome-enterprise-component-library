@@ -1,5 +1,5 @@
 # awesome-enterprise-component-library
-A list of enterprise funded publically open source component libraries. Might help you with your proposals ❤🌹️
+A list of enterprise funded publically open source component libraries. Might help you with your proposals. Also [if you are thinking of building a shared library here are some tips on management](https://medium.com/@basarat/successful-patterns-for-shared-libraries-65b75276ee08)🌹️
 
 In no partcular order. Re-organize for your target audience.
 
@@ -19,3 +19,4 @@ In no partcular order. Re-organize for your target audience.
 | Australia | Evanto | https://github.com/envato/foundation-design-system-tokens
 | USA | Github | https://github.com/primer/primer/
 | USA | Google | https://github.com/material-components/material-components-web/
+| Italy | agid.gov.it | https://github.com/italia/bootstrap-italia/
