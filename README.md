@@ -20,3 +20,7 @@ In no partcular order. Re-organize for your target audience.
 | USA | Github | https://github.com/primer/primer/
 | USA | Google | https://github.com/material-components/material-components-web/
 | Italy | agid.gov.it | https://github.com/italia/bootstrap-italia/
+
+
+# Footnotes
+There is now an awesome website out there collecting these : https://designsystemsrepo.com/design-systems/ 🌹
